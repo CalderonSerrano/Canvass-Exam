@@ -1,0 +1,3 @@
+Modificar el ancho y largo de la opción rectángulo para que no se puedan crear cuadrados
+
+Efecto espejo

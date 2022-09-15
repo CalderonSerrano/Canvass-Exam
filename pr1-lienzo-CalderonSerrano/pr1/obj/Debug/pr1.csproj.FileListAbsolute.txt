@@ -1,0 +1,14 @@
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\bin\Debug\pr1.exe.config
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\bin\Debug\pr1.exe
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\bin\Debug\pr1.pdb
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.csprojAssemblyReference.cache
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.exe
+E:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.pdb
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\bin\Debug\pr1.exe.config
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\bin\Debug\pr1.exe
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\bin\Debug\pr1.pdb
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.csproj.CoreCompileInputs.cache
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.exe
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.pdb
+D:\Programación\TERCER TRIMESTRE\PROYECTO FIN DE CURSO 1º DAW\pr1-lienzo-CalderonSerrano\pr1\obj\Debug\pr1.csproj.AssemblyReference.cache
